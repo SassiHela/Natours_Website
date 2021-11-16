@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    // compile:sass
     "start": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "",
